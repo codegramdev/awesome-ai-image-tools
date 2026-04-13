@@ -46,6 +46,13 @@ AI-powered background removal tool built for e-commerce, designers, and photogra
 
 ---
 
+### Igly
+https://igly.ai
+
+Free AI image editor for e-commerce and content teams. Remove and replace backgrounds, generate images, upscale, restore, inpaint, and edit on a canvas in one workflow.
+
+---
+
 ## AI Object Removal Tools
 
 Tools that remove unwanted objects, people, text, or defects from images.
