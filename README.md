@@ -50,6 +50,14 @@ AI-powered background removal tool built for e-commerce, designers, and photogra
 
 Tools that remove unwanted objects, people, text, or defects from images.
 
+### ClearCrowds
+
+https://clearcrowds.com
+
+AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts.
+
+---
+
 ### Cleanup Pictures
 
 https://cleanup.pictures
