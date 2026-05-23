@@ -118,6 +118,14 @@ Online photo editing platform with AI background remover and design features.
 
 ---
 
+### LandscapioAI
+
+https://www.landscapioai.com
+
+AI landscape design tool that turns garden, yard, patio, or lawn photos into realistic outdoor makeover concepts and planting ideas.
+
+---
+
 ## Contributing
 
 Contributions are welcome!
