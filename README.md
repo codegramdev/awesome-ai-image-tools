@@ -118,6 +118,14 @@ Online photo editing platform with AI background remover and design features.
 
 ---
 
+### HairWow
+
+https://www.gohairwow.com
+
+AI hairstyle try-on tool for previewing haircuts, colors, beards, and style ideas on your own photo.
+
+---
+
 ## Contributing
 
 Contributions are welcome!
@@ -159,4 +167,3 @@ This repository aims to provide a curated list of the **best AI image tools avai
 ## License
 
 MIT License
-
