@@ -46,6 +46,14 @@ AI-powered background removal tool built for e-commerce, designers, and photogra
 
 ---
 
+### ImagineClip
+
+https://imagineclip.com/ai-image-editor
+
+Browser-based AI image editor with background removal for cleaning up visual assets.
+
+---
+
 ## AI Object Removal Tools
 
 Tools that remove unwanted objects, people, text, or defects from images.
@@ -159,4 +167,3 @@ This repository aims to provide a curated list of the **best AI image tools avai
 ## License
 
 MIT License
-
