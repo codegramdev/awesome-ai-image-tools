@@ -118,6 +118,18 @@ Online photo editing platform with AI background remover and design features.
 
 ---
 
+## AI Image Generation Tools
+
+Developer tools and SDKs for building AI image generation workflows.
+
+### RunAPI GPT Image 2 SDK
+
+https://github.com/runapi-ai/gpt-image-2-sdk
+
+Multi-language SDK for generating images with GPT Image 2 through RunAPI.
+
+---
+
 ## Contributing
 
 Contributions are welcome!
@@ -159,4 +171,3 @@ This repository aims to provide a curated list of the **best AI image tools avai
 ## License
 
 MIT License
-
