@@ -98,6 +98,18 @@ AI upscaler that enhances image resolution and sharpness.
 
 ---
 
+## AI Image Generation
+
+Tools that create new images from text prompts using generative AI.
+
+### GPT Image 2
+
+https://gptimage2.asia/
+
+Create and edit production-ready AI images for marketing, ecommerce, social media, and branded content.
+
+---
+
 ## AI Photo Editors
 
 Online AI photo editors with advanced features.
