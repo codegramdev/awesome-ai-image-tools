@@ -10,6 +10,18 @@ This repository collects modern **AI-powered image editing tools**, including ba
 
 ---
 
+
+## AI Image Generators
+
+Tools that create new images from text prompts using generative AI.
+
+### Raphael AI
+
+https://raphael.app
+
+Free AI creative workspace for text-to-image generation and visual production in the browser.
+
+---
 ## AI Background Removers
 
 Tools that automatically remove backgrounds from images using artificial intelligence.
