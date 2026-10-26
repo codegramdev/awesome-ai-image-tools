@@ -118,6 +118,14 @@ Online photo editing platform with AI background remover and design features.
 
 ---
 
+## AI Image Generation
+
+### PromptImage
+
+https://promptimage.cloud
+
+Free AI image & video studio with a prompt library. Freemium signup credits, no credit card required. Browser-based image generation and editing workflows.
+
 ## Contributing
 
 Contributions are welcome!
