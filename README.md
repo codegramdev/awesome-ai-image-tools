@@ -118,6 +118,14 @@ Online photo editing platform with AI background remover and design features.
 
 ---
 
+### RemixThatPhoto
+
+https://remixthatphoto.com/
+
+Restyle a photo, remove objects, or change the background in a browser-based AI photo editor.
+
+---
+
 ## Contributing
 
 Contributions are welcome!
